@@ -1,0 +1,21 @@
+##Plugins SublimeText 3
+
+- Alignment
+- Autoprefixer
+- brackethighlighter
+- ColorPicker
+- Emmet
+- Expand Group
+- GitGutter
+- HTML-CSS-JS-Prettify
+- HTML5
+- JQUERY
+- JSHint
+- LiveReload
+- Material Theme
+- Modific
+- PyV8
+- SASS Build
+- Sass
+- SublimeCodeIntel
+- TrailingSpaces
